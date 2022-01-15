@@ -1,0 +1,9 @@
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\OSRSTracker.exe
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\OSRSTracker.dll
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\OSRSTracker.deps.json
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\OSRSTracker.runtimeconfig.json
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\OSRSTracker.pdb
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\Microsoft.Edge.SeleniumTools.dll
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\Newtonsoft.Json.dll
+C:\Users\hiatt\Desktop\OSRS tracker\tracker2\tracker published\WebDriver.dll
